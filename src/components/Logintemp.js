@@ -84,15 +84,16 @@ const Logintemp = () => {
     <div>
       <Header />
       <div 
-        className="absolute">
+        className="absolute w-full">
         <img 
+          className="h-screen object-cover w-full"
           src={BG_URL} 
           alt="logo"
         />
       </div>
       <form 
         onSubmit={(e) => e.preventDefault()}
-        className="w-3/12 absolute p-12 bg-black bg-opacity-80 my-40 mx-auto right-0 left-0 text-white rounded-lg"
+        className="w-full md:w-3/12 absolute p-12 bg-black bg-opacity-80 my-40 mx-auto right-0 left-0 text-white rounded-lg"
       >
         <h1 className="font-bold text-3xl py-4">
 
