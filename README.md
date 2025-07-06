@@ -87,7 +87,7 @@ A smart Netflix-like movie streaming app with AI-powered search capabilities bui
 
 ## 📷 Preview
 
-> _Add screenshots or GIF here for visual representation_
+> ![image_alt](https://github.com/heyrajaman/netflix-gpt/blob/main/screenshots.jpg?raw=true)
 
 ---
 
